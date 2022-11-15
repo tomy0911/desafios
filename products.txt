@@ -1,0 +1,20 @@
+[
+    {
+        "title": SamsungS22+",
+        "price": 265600 ",
+        "thumbnail": https://images.samsung.com/levant/smartphones/galaxy-s22/buy/S22_plus_Carousel_GroupKV_MO.jpg",
+        "id": 1"
+    },
+    {
+        "title": SamsungS22 Ultra",
+        "price":327000 ",
+        "thumbnail":https://images.samsung.com/levant/smartphones/galaxy-s22-ultra/buy/S22_Ultra_ProductKV_Black_MO.jpg ",
+        "id": 2"
+    },
+    {
+        "title": Iphone 14 ",
+        "price": 375500",
+        "thumbnail":https://media.4rgos.it/i/Argos/sb-0222-m0014-m007-m050-asym-m008-m022-appleiphone-brandshop-13minicombo?maxW=1200&qlt=75&fmt.jpeg.interlaced=true ",
+        "id": 3"
+    }
+]
